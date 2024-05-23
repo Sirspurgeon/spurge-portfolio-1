@@ -16,7 +16,10 @@ body {
   position: relative;
   background: transparent;
 }
-
+.img-web {
+  height: 300px;
+  padding-bottom: 30px;
+}
 body::before {
   content: "";
   position: fixed;
